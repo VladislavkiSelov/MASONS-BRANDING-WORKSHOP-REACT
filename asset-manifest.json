@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MASONS-BRANDING-WORKSHOP-REACT/static/css/main.1588ac9c.css",
+    "main.js": "/MASONS-BRANDING-WORKSHOP-REACT/static/js/main.e09ce375.js",
+    "static/media/Main2.png": "/MASONS-BRANDING-WORKSHOP-REACT/static/media/Main2.f780123146db93bc0b57.png",
+    "index.html": "/MASONS-BRANDING-WORKSHOP-REACT/index.html",
+    "main.1588ac9c.css.map": "/MASONS-BRANDING-WORKSHOP-REACT/static/css/main.1588ac9c.css.map",
+    "main.e09ce375.js.map": "/MASONS-BRANDING-WORKSHOP-REACT/static/js/main.e09ce375.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1588ac9c.css",
+    "static/js/main.e09ce375.js"
+  ]
+}
